@@ -1,6 +1,5 @@
-### Hi there 👋
+### Olá, eu sou o Antônio Carlos (🇧🇷)
 
-My name is Antônio Carlos from Brazil (🇧🇷).
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniocsimoes)](https://www.linkedin.com/in/antoniocsimoes)
 
@@ -9,12 +8,16 @@ My name is Antônio Carlos from Brazil (🇧🇷).
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Trabalhando com front-end
+- 🌱 Estudando React, Next.js, JavaScript (aperfeiçoando)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 Contate-me no e-mail: antoniocssimoes@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Trabalhando com front-end
+- 🌱 Estudando React, Next.js, JavaScript (aperfeiçoando)
+- 📫 Contate-me no e-mail: antoniocssimoes@gmail.com
